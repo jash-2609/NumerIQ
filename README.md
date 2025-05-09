@@ -1,4 +1,4 @@
-# math-genius-ai: AI-Powered Math Problem Solver
+
 
 ## Description
 
@@ -21,9 +21,6 @@ MathGeniusAI is a cutting-edge project that leverages AI technologies to solve e
 - NumPy: A fundamental package for numerical computations in Python.
 - Matplotlib: A data visualization library used for creating static, interactive, and animated visualizations in Python.
 
-## Created By
-
-Created by [Nilansh Dey Ghosh](https://github.com/ndg24).
 
 
 
